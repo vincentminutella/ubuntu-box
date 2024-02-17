@@ -8,4 +8,5 @@ To get it running:
 4) Run configure-machine.sh inside of the container shell's root directory
 5) Run install-python.sh inside of the container shell's root directory
 6) cd into a cloned TF repo and hydrate your terraform.tf backend file
-7) You are ready to run TF commands from your main directory 
+7) You are ready to run TF commands from your main directory
+8) You are ready to run aws or python3 commands from anywhere
