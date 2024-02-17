@@ -1,0 +1,8 @@
+First, run: 
+
+docker ps
+
+Then, copy the name of the container running your ubuntu box and run: 
+
+docker exec -it <name of container here> sh
+
