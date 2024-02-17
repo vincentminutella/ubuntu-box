@@ -29,8 +29,3 @@ make install
 #9) mv /usr/local/bin/python3 /usr/local/bin/python
 #10 mv /usr/local/bin/pip3 /usr/local/bin/pip 
 
-
-# For Django App
-
-# pip install pipenv
-# pipenv install django
